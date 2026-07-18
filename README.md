@@ -137,12 +137,3 @@ This project demonstrates how to:
 - Perform correlation analysis
 - Interpret relationships between health and socioeconomic indicators
 
----
-
-## 🔮 Future Improvements
-
-- Include additional COVID-19 datasets (deaths, recoveries, vaccinations)
-- Create interactive dashboards using Plotly
-- Perform time-series forecasting
-- Analyze regional trends
-- Build an interactive web dashboard with Streamlit
